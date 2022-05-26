@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meu Pet</string>
+    <string name="texto_pet">ESSA É A FOTO DO MEU PET</string>
+    <string name="nome_do_pet">Nome do pet: Pequeno</string>
+    <string name="raca_pet">Raça do pet: RR</string>
+    <string name="idade_pet">Idade do pet: 3 anos</string>
+    <string name="description_imagem">Imagem do cachorro Pequeno</string>
+    <string name="mensagem">mensagem</string>
+</resources>
